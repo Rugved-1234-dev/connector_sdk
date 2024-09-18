@@ -1,0 +1,11 @@
+{
+  "id": "testConnectionId",
+  "userAccountId": "testUserAccountId",
+  "oauthToken": {
+    "accessToken": "ya29.a0AcM612z-IzqJAi6htKFOW2WTP-fpPipW44Vht3OzEzWTo0mTbhVh9z6dklH6V8ICplDFyvdnqmiJxSZoD3PRZIuyr308yG5glUIixCYslFtAWuqKirIJ21MZV3mIeOh4xUivmEq_n9GLkchp4iBq_QfFBVn0sSXjEPgwt36IYgaCgYKARESARISFQHGX2Miie_wJkRleM6SwFXKo6hY7w0177",
+    "refreshToken": "1//0g3WVps9hS_pZCgYIARAAGBASNwF-L9Ir62-vfEi5Klec1FN9CvtA1tFXqH19n4R4gQxrgGhHijZcXl_gDetes2W0DamO6dszAGs",
+    "expires": 3599
+  },
+  "input": {},
+  "identity": "rugved@quickwork.co"
+}
